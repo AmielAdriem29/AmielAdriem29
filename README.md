@@ -3,7 +3,7 @@
 
 > **`Curious Tinkerer`**
 >
-> My journey in tech is driven by a deep curiosity for how things work under the hood, from the hardware I carry to the software environments I build.
+> My journey in tech is driven by a deep curiosity for how things work under the hood, from the hardware I carry to the software environments I use/build.
 
 --- 
 
