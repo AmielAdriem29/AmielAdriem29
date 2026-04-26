@@ -1,45 +1,51 @@
-# Hi, I'm Amiel Joshua Peñaflor! 
-**3rd Year Computer Science Student @ CIT-U**
+<div align="center">
 
-> **`Curiosity-Driven Tinkerer`**
->
- > I don’t just use technology—I take it apart, optimize it, and make it mine. My journey in tech is driven by a deep curiosity for how things work under the hood, from the hardware I carry to the software environments I build.
+# Hi, I'm Amiel Joshua Peñaflor 🇵🇭
+### [@AmielAdriem29](https://github.com/AmielAdriem29)
 
---- 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1000&width=700&height=30&center=true&vCenter=true&lines=Third-year+BS+Computer+Science+student+at+CIT-U.;Full-stack+developer+and+systems+tinkerer.;Linux+enthusiast+%E2%80%94+Arch%2C+btw.;I+love+ThinkPads.;Sponsor+me+with+a+Framework%3F+:3)](https://git.io/typing-svg)
 
-### 🧰 Languages and Tools
+</div>
 
-<p align="center·">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" title="React" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" title="HTML5" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" title="CSS3" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" title="Linux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40" title="Arch Linux" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" title="Git" />&nbsp;
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" title="VSCode" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" title="Figma" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" title="Docker" />&nbsp;
+---
 
-</p>
+<div align="center">
 
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,python,c,cpp,java,kotlin,nodejs,express,postgres,mysql,sqlite,docker,git,github,figma,linux,arch,vim,neovim,vscode,bash,pytorch,tensorflow,spring,django,flask,laravel,php,postman,obsidian,firebase,androidstudio,markdown" />
+</a>
 
+</div>
 
+---
 
-<!--
-**AmielAdriem29/AmielAdriem29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/AmielAdriem29?tab=repositories">
+    <img
+      height="180"
+      src="https://github-readme-stats-vercell.vercel.app/api?username=AmielAdriem29&count_private=true&show_icons=true&theme=github_dark"
+    />
+  </a>
+  <a href="https://github.com/AmielAdriem29?tab=repositories">
+    <img
+      height="180"
+      src="https://github-readme-stats-vercell.vercel.app/api/top-langs/?username=AmielAdriem29&count_private=true&layout=compact&langs_count=6&hide=jupyter%20notebook,dockerfile,makefile&theme=github_dark"
+    />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amiel-joshua-pe%C3%B1aflor-4751ab372/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amieljpenaflor@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmielAdriem29)
+
+</div>
+
+---
+
+## About Me
+
+I'm a 3rd-year BS Computer Science student at CIT-U and a DOST Scholar who cares a lot about building things that actually look and feel good. I'm still figuring out where I want to go, but I'm drawn to making things look good. When I'm not coding, I'm either reading, eating eggs, watching teardowns of laptops I can't afford yet, or ricing a linux machine.
