@@ -20,18 +20,20 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/AmielAdriem29?tab=repositories">
-    <img
-      height="180"
-      src="https://github-readme-stats-vercell.vercel.app/api?username=AmielAdriem29&count_private=true&show_icons=true&theme=github_dark"
-    />
-  </a>
-  <a href="https://github.com/AmielAdriem29?tab=repositories">
-    <img
-      height="180"
-      src="https://github-readme-stats-vercell.vercel.app/api/top-langs/?username=AmielAdriem29&count_private=true&layout=compact&langs_count=6&hide=jupyter%20notebook,dockerfile,makefile&theme=github_dark"
-    />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/AmielAdriem29?tab=repositories">
+          <img height="180" src="https://github-readme-stats-vercell.vercel.app/api?username=AmielAdriem29&count_private=true&show_icons=true&theme=github_dark" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/AmielAdriem29?tab=repositories">
+          <img height="180" src="https://github-readme-stats-vercell.vercel.app/api/top-langs/?username=AmielAdriem29&count_private=true&layout=compact&langs_count=6&hide=jupyter%20notebook,dockerfile,makefile&theme=github_dark" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
