@@ -3,7 +3,7 @@
 # Hi, I'm Amiel Joshua Peñaflor 🇵🇭
 ### [@AmielAdriem29](https://github.com/AmielAdriem29)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=4000&pause=1000&width=700&height=30&center=true&vCenter=true&lines=Third-year+BS+Computer+Science+student+at+CIT-U.;Full-stack+developer+and+systems+tinkerer.;Linux+enthusiast+%E2%80%94+Arch%2C+btw.;I+love+ThinkPads.;Sponsor+me+with+a+Framework%3F+:3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=4000&pause=1000&width=700&height=30&center=true&vCenter=true&lines=Third-year+BS+Computer+Science+student+at+CIT-U.;Full-stack+developer+and+systems+tinkerer.;Linux+enthusiast+—+Arch%2C+btw.;I+love+ThinkPads.;Sponsor+me+with+a+Framework%3F+:3)](https://git.io/typing-svg)
 
 </div>
 
