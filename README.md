@@ -45,9 +45,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AmielAdriem29)
 
 </div>
-
----
-
-## About Me
-
-I'm a 3rd-year BS Computer Science student at CIT-U and a DOST Scholar who cares a lot about building things that actually look and feel good. I'm still figuring out where I want to go, but I'm drawn to making things look good. When I'm not coding, I'm either reading, eating eggs, watching teardowns of laptops I can't afford yet, or ricing a linux machine.
