@@ -3,7 +3,7 @@
 # Hi, I'm Amiel Joshua Peñaflor 🇵🇭
 ### [@AmielAdriem29](https://github.com/AmielAdriem29)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=15&duration=4000&pause=1000&width=700&height=30&center=true&vCenter=true&lines=Third-year+BS+Computer+Science+student+at+CIT-U.;Full-stack+developer.;Linux+enthusiast+—+omArchy%2C+btw.;I+love+ThinkPads.;Sponsor+me+with+a+Framework%3F+:3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=15&duration=4000&pause=1000&width=700&height=30&center=true&vCenter=true&lines=Third-year+BS+Computer+Science+student+at+CIT-U.;Full-stack+developer.;Linux+enthusiast+—+Fedora Gng.;I+love+ThinkPads.;Sponsor+me+with+a+Framework%3F+:3)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,python,c,cpp,java,kotlin,nodejs,express,postgres,mysql,sqlite,docker,git,github,figma,linux,arch,ubuntu,vim,neovim,vscode,bash,pytorch,tensorflow,spring,django,flask,laravel,php,postman,obsidian,firebase,androidstudio,markdown" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,html,css,python,c,cpp,java,kotlin,nodejs,express,postgres,mysql,sqlite,docker,git,github,figma,linux,arch,ubuntu,fedora,vim,neovim,vscode,bash,pytorch,tensorflow,spring,django,flask,laravel,php,postman,obsidian,firebase,androidstudio,markdown" />
 </a>
 
 </div>
